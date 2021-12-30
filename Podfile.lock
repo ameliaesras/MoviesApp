@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (5.4.3)
+  - CircularProgressBar (1.0.4)
+  - Cosmos (23.0.0)
+  - Kingfisher (6.3.1)
+  - PaginatedTableView (1.0.1)
+  - SwiftyJSON (5.0.1)
+  - youtube-ios-player-helper (1.0.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - CircularProgressBar
+  - Cosmos
+  - Kingfisher
+  - PaginatedTableView
+  - SwiftyJSON
+  - youtube-ios-player-helper
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CircularProgressBar
+    - Cosmos
+    - Kingfisher
+    - PaginatedTableView
+    - SwiftyJSON
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  CircularProgressBar: 3807bc06ff36802d06631a3b65b702696aa072a1
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  Kingfisher: 016c8b653a35add51dd34a3aba36b580041acc74
+  PaginatedTableView: 294d9831d5ddf5c0dcfbb4a281d4fcfb8d12f55a
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  youtube-ios-player-helper: e9b97535e816db3152179d84d999bc1807ecd689
+
+PODFILE CHECKSUM: 51b8425b27154cd3a503079493ecf7783242c1f6
+
+COCOAPODS: 1.11.2
